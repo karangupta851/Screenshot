@@ -38,7 +38,6 @@ input {
   width: 100%;
 }
 .file {
-  border: solid 1px;
   background: white;
   width: 100%;
   border-radius: 3px;
@@ -53,7 +52,6 @@ input {
 	.top {
     width: 100%;
     float: left;
-    border: solid 1px;
     background: red;
 	text-align: left;
 }	
