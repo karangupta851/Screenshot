@@ -123,7 +123,7 @@ width:100%;}
 	height: auto !important;
 }
 	</style>
-	<title>Screenshot using html2canvas</title>
+	<title>Take A Screenshot</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript" src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
 		<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
