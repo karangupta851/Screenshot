@@ -3,6 +3,8 @@
 <head>
 <style>
 
+		
+
 		.movable_div{
 			cursor: move;
 		}
@@ -10,7 +12,7 @@
 			cursor: move;
 		}
 		.cap{
-		height:500px;
+		height:400px;
 		width:100%;
 		float:left;
 		}
@@ -56,7 +58,7 @@ input {
 	text-align: left;
 }	
 .fb-icon {
-    width: 10%;
+    width: 14%;
     float: left;
 }
 img{
@@ -71,35 +73,30 @@ width:100%;}
     font-weight: bold;
 }
 .bottom {
-    width: 100%;
-    float: left;
-    position: absolute;
-    top: 410px;
-    text-align: right;
-    color: #fff;
+    width: 29%;
+    float: right;
+    position: relative;
+    top: 316px;
+    background: #fff;
+    padding: 8px;
 }
 .cad {
-    padding: 14px;
-    background: #fff;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 24px;
-	color:#000;
 }
 .bottom1 {
     width: 100%;
     float: left;
     position: absolute;
-    top: 458px;
+    top: 400px;
     background: red;
 }
 .mob {
     width: 50%;
     float: left;
     color: #fff;
-    padding: 9px;
+    padding: 2px;
     font-weight: bold;
 	text-align:left;
+    font-size: 20px;
 }
 .add {
     text-align: right;
@@ -107,18 +104,32 @@ width:100%;}
     float: left;
     color: #fff;
     font-weight: bold;
-    padding: 9px;
+    padding: 3px;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 .top {
-    width: 90%;
+    width: 86%;
     float: left;
     background: red;
-    padding: 8.4px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 6px;
 }
 #movable_div {
     width: 40% !important;
     float: left !important;
 	height: auto !important;
+}
+	
+.col-md-5 {
+  padding: 0;
+  margin: auto;
+}
+.col-md-6 {
+  margin: auto;
+  padding: 0;
 }
 	</style>
 	<title>Take A Screenshot</title>
