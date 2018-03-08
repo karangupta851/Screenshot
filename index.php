@@ -23,7 +23,7 @@
   max-width: 76.1%;
 }
 .bottom{
-  top: 292px;
+  top: 292px !important;
 }
 	
 	}
