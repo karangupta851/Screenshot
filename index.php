@@ -14,7 +14,8 @@
   font-weight: bold;
 }
 .top.col-md-10 {
-  float: left;
+    float: left;
+    padding-left: 4px;
 }
 
 		.movable_div{
