@@ -3,7 +3,7 @@
 <head>
 <style>
 
-	@media (max-width:499px){
+	@media (max-width:700px){
 	
 .fb-icon.col-md-2 {
   width: 20% !important;;
