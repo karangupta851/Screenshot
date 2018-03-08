@@ -3,7 +3,19 @@
 <head>
 <style>
 
+
 		
+.fb-icon.col-md-2 {
+  float: left;
+  padding: 3px;
+  text-align: center;
+  background: #4862A3;
+  color: #fff;
+  font-weight: bold;
+}
+.top.col-md-10 {
+  float: left;
+}
 
 		.movable_div{
 			cursor: move;
@@ -58,8 +70,8 @@ input {
 	text-align: left;
 }	
 .fb-icon {
-    width: 14%;
-    float: left;
+    /*! width: 14%; */
+    /*! float: left; */
 }
 img{
 width:100%;}
@@ -131,6 +143,7 @@ width:100%;}
   margin: auto !important;
   padding: 0 !important;
 }
+	
 	</style>
 	<title>Take A Screenshot</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
