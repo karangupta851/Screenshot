@@ -172,7 +172,7 @@ width:100%;}
 		<div class="col-md-6">
 	<div class="cap">
 <div id="capture" class="capture">
-	<div class="fb-icon"><span>facebook</span></div><div class="top"><span class="fb">facebook.com/snr.caddesk</span></div>
+	<div class="fb-icon col-md-2"><span>facebook</span></div><div class="top col-md-10"><span class="fb">facebook.com/snr.caddesk</span></div>
 		<div class="movable_div" id="movable_div" contenteditable="true">Enter Text Here</div>
 		<div class="bottom"><span class="cad"><img src="bg_img/caddesk_logo.png" /></span></div>
 		<div class="bottom1"><span class="mob">Mb. 9817525007</span><span class="add">Sundernagar</span></div>
