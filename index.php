@@ -195,7 +195,7 @@ width:100%;}
 		<select id="align" class="form-control inputstl"> <option value="left">Left</option><option value="right">Right</option><option value="center">Center</option><option value="justify">Justify</option></select>
 	</div>
 	<div class="col-md-4">
-		<a class="view" href="screenshot.html" class="btn btn-primary">View ScreenShot</a>
+		<a class="view btn btn-primary" href="screenshot.html" class="btn btn-primary">View ScreenShot</a>
 	</div>
 	</div>
 	</div>
