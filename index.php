@@ -162,7 +162,7 @@ width:100%;}
 <div id="capture" class="capture">
 <div class="fb-icon"><img src="bg_img/12.png"></div><div class="top"><span class="fb">facebook.com/snr.caddesk</span></div>
 		<div class="movable_div" id="movable_div" contenteditable="true">Enter Text Here</div>
-		<div class="bottom"><span class="cad">Cad Desk</span></div>
+		<div class="bottom"><span class="cad"><img src="bg_img/caddesk_logo.png" /></span></div>
 		<div class="bottom1"><span class="mob">Mb. 9817525007</span><span class="add">Sundernagar</span></div>
 </div>
 </div>
