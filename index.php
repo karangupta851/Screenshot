@@ -19,13 +19,13 @@
 	@media (max-width:900px){
 	
 .fb-icon.col-md-2 {
-  max-width: 86px!important;
+  max-width: 86px;
 }
 .top.col-md-10 {
-  max-width: 76.1%!important;
+  max-width: 76.1%;
 }
 .bottom{
-  top: 292px!important;
+  top: 292px;
 }
 	
 	}
