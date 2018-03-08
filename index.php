@@ -158,7 +158,7 @@ width:100%;}
 	</div>
 	</div>
 	<div class="col-md-12">
-		<div class="col-md-5">
+		<div class="col-md-5 col-md-4 col-md-3 col-md-2">
 	<div class="cap">
 <div id="capture" class="capture">
 <div class="fb-icon"><img src="bg_img/12.png"></div><div class="top"><span class="fb">facebook.com/snr.caddesk</span></div>
