@@ -3,9 +3,8 @@
 <head>
 <style>
 
-	@media (max-width:700px){
 	
-.fb-icon.col-md-2 {
+@media only screen and (max-width: 740px) and (min-width: 300px)  {.fb-icon.col-md-2 {
   width: 20% !important;;
 }
 .top.col-md-10 {
@@ -15,8 +14,7 @@
   top: 290px !important;;
 }
 	}
-
-	@media (max-width:900px){
+	@media only screen and (max-width: 1030px) and (min-width: 745px)  {
 	
 .fb-icon.col-md-2 {
   max-width: 86px;
