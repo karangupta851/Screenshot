@@ -16,7 +16,21 @@
 }
 	}
 
-		
+	@media (max-width:900px){
+	
+.fb-icon.col-md-2 {
+  max-width: 86px!important;
+}
+.top.col-md-10 {
+  max-width: 76.1%!important;
+}
+.bottom{
+  top: 292px!important;
+}
+	
+	}
+	
+	
 .fb-icon.col-md-2 {
   float: left;
   padding: 3px;
