@@ -124,12 +124,12 @@ width:100%;}
 }
 	
 .col-md-5 {
-  padding: 0;
-  margin: auto;
+  padding: 0 !important;
+  margin: auto !important;
 }
 .col-md-6 {
-  margin: auto;
-  padding: 0;
+  margin: auto !important;
+  padding: 0 !important;
 }
 	</style>
 	<title>Take A Screenshot</title>
@@ -169,7 +169,7 @@ width:100%;}
 	</div>
 	</div>
 	<div class="col-md-12">
-		<div class="col-md-5">
+		<div class="col-md-6">
 	<div class="cap">
 <div id="capture" class="capture">
 <div class="fb-icon"><img src="bg_img/12.png"></div><div class="top"><span class="fb">facebook.com/snr.caddesk</span></div>
