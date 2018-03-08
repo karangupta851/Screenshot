@@ -3,7 +3,18 @@
 <head>
 <style>
 
-
+	@media (max-width:499px){
+	
+.fb-icon.col-md-2 {
+  width: 20% !important;;
+}
+.top.col-md-10 {
+  width: 80% !important;;
+}
+.bottom{
+  top: 290px !important;;
+}
+	}
 
 		
 .fb-icon.col-md-2 {
