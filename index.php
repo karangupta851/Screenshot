@@ -4,6 +4,7 @@
 <style>
 
 
+
 		
 .fb-icon.col-md-2 {
   float: left;
@@ -89,7 +90,7 @@ width:100%;}
     width: 29%;
     float: right;
     position: relative;
-    top: 316px;
+    top: 280px;
     background: #fff;
     padding: 8px;
 }
@@ -99,7 +100,7 @@ width:100%;}
     width: 100%;
     float: left;
     position: absolute;
-    top: 400px;
+    top: 364px;
     background: red;
 }
 .mob {
@@ -144,6 +145,8 @@ width:100%;}
   margin: auto !important;
   padding: 0 !important;
 }
+	
+	
 	
 	</style>
 	<title>Take A Screenshot</title>
