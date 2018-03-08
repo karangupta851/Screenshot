@@ -169,7 +169,7 @@ width:100%;}
 <div class="col-md-4"><input id="slider" type ="range" min ="12" max="100" value ="0"/></div>
 <!--<div class="col-md-4"><input type="text" Placeholder="Enter The Text" id="textbox" /></div>
 <div class="col-md-4"><textarea id="textbox1" ></textarea></div>-->
-<div class="col-md-4"><input id="chosen-value" value="000000"></div>
+<div class="col-md-4"><input class="form-control" id="chosen-value" value="000000"></div>
 <div class="col-md-4"><button class=" btn btn-primary  jscolor {valueElement:'chosen-value', onFineChange:'setTextColor(this)'}">Set Font Color</button> </div>
 <!--<div class="col-md-4"><button class=" btn btn-primary jscolor {valueElement:'chosen-value1', onFineChange:'setTextColor1(this)'}" >Set Font Color</button> </div>-->
 <div class="col-md-4"><button class=" btn btn-primary jscolor {valueElement:'chosen-value3', onFineChange:'setTextColor3(this)'}">Set Background Color</button></div>
@@ -181,7 +181,7 @@ width:100%;}
 		<select id="align" class="form-control inputstl"> <option value="left">Left</option><option value="right">Right</option><option value="center">Center</option><option value="justify">Justify</option></select>
 	</div>
 	<div class="col-md-4">
-		<input type="text" class="form-control" id="opacity">
+		<a href="screenshot.html" class="btn btn-primary">View ScreenShot</a>
 	</div>
 	</div>
 	</div>
