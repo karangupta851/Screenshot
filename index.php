@@ -189,30 +189,30 @@ width:100%;}
 <body>
 <div class="container">
 <div class="row">
-<div class="col-12">
-<div class="col-md-8">
-<div class="col-md-4"><input type="file" class="file" onChange="readURL(this);" /></div>
-<div class="col-md-4"><input id="slider" type ="range" min ="12" max="100" value ="0"/></div>
+<div class="col-12 col-sm-12">
+<div class="col-md-8 col-sm-12">
+<div class="col-md-4 col-sm-12"><input type="file" class="file" onChange="readURL(this);" /></div>
+<div class="col-md-4 col-sm-12"><input id="slider" type ="range" min ="12" max="100" value ="0"/></div>
 <!--<div class="col-md-4"><input type="text" Placeholder="Enter The Text" id="textbox" /></div>
 <div class="col-md-4"><textarea id="textbox1" ></textarea></div>-->
-<div class="col-md-4"><input class="form-control" id="chosen-value" value="000000"></div>
-<div class="col-md-4"><button class=" btn btn-primary  jscolor {valueElement:'chosen-value', onFineChange:'setTextColor(this)'}">Set Font Color</button> </div>
+<div class="col-md-4 col-sm-12"><input class="form-control" id="chosen-value" value="000000"></div>
+<div class="col-md-4 col-sm-12"><button class=" btn btn-primary  jscolor {valueElement:'chosen-value', onFineChange:'setTextColor(this)'}">Set Font Color</button> </div>
 <!--<div class="col-md-4"><button class=" btn btn-primary jscolor {valueElement:'chosen-value1', onFineChange:'setTextColor1(this)'}" >Set Font Color</button> </div>-->
-<div class="col-md-4"><button class=" btn btn-primary jscolor {valueElement:'chosen-value3', onFineChange:'setTextColor3(this)'}">Set Background Color</button></div>
-<div class="col-md-4"><button class=" btn btn-primary jscolor {valueElement:'chosen-value2', onFineChange:'setTextColor2(this)'}">Set Background Color</button></div>
-<div class="col-md-4">
+<div class="col-md-4 col-sm-12"><button class=" btn btn-primary jscolor {valueElement:'chosen-value3', onFineChange:'setTextColor3(this)'}">Set Background Color</button></div>
+<div class="col-md-4 col-sm-12"><button class=" btn btn-primary jscolor {valueElement:'chosen-value2', onFineChange:'setTextColor2(this)'}">Set Background Color</button></div>
+<div class="col-md-4 col-sm-12">
 		<button id="take_screenshoot" class="btn btn-primary">Take Screenshot</button>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-4 col-sm-12">
 		<select id="align" class="form-control inputstl"> <option value="left">Left</option><option value="right">Right</option><option value="center">Center</option><option value="justify">Justify</option></select>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-4 col-sm-12">
 		<a class="view btn btn-primary" href="screenshot.html" class="btn btn-primary">View ScreenShot</a>
 	</div>
 	</div>
 	</div>
-	<div class="col-md-12">
-		<div class="col-md-6">
+	<div class="col-md-12 col-sm-12">
+		<div class="col-md-6 col-sm-12">
 	<div class="cap">
 <div id="capture" class="capture">
 	<div class="fb-icon col-md-2"><span>facebook</span></div><div class="top col-md-10"><span class="fb">facebook.com/snr.caddesk</span></div>
