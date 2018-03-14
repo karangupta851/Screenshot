@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-	
+<style>	
 @media only screen and (max-width: 740px) and (min-width: 300px)  {
 	.fb-icon.col-md-2 {
   width: 20% !important;;
@@ -45,10 +43,7 @@
     right: 10px;
 }
 	
-	}
-	
-	
-	
+	}	
 	
 .fb-icon.col-md-2 {
   float: left;
@@ -79,8 +74,6 @@
 		background-size:100% 100%;
 		height: 100%;
 }
-		
-	
 .col-md-4 {
   float: left;
   margin-bottom: 8px;
@@ -137,7 +130,7 @@ width:100%;}
     width: 29%;
     float: right;
     position: relative;
-    top: 280px;
+    top: 285px;
     background: #fff;
     padding: 8px;
 }
@@ -147,17 +140,18 @@ width:100%;}
     width: 100%;
     float: left;
     position: absolute;
-    top: 364px;
+    top: 370px;
     background: red;
 }
 .mob {
     width: 50%;
     float: left;
     color: #fff;
-    padding: 2px;
     font-weight: bold;
 	text-align:left;
     font-size: 20px;
+    position: relative;
+    left: 4px;
 }
 .add {
     text-align: right;
@@ -165,9 +159,10 @@ width:100%;}
     float: left;
     color: #fff;
     font-weight: bold;
-    padding: 3px;
     font-size: 20px;
     text-transform: uppercase;
+    position: relative;
+    right: 4px;
 }
 .top {
     width: 86%;
@@ -192,9 +187,6 @@ width:100%;}
   margin: auto !important;
   padding: 0 !important;
 }
-	
-	
-	
 	</style>
 	<title>Take A Screenshot</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
