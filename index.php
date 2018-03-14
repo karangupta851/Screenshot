@@ -28,7 +28,7 @@
 }
 	
 	}
-	@media only screen and (max-width: 1026px) and (min-width: 800px)
+	@media only screen and (max-width: 1026px) and (min-width: 1000px)
 {	
 	.top.col-md-10 {
     max-width: 82%;
