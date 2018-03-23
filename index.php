@@ -321,8 +321,8 @@ width:100%;}
             if (input.files && input.files[0]) {
                 var reader = new FileReader();
                 reader.onload = function (e) {
-                    document.getElementById('capture').image.src =reader.result;  
-			//document.getElementById('capture').image.src = "url(" + reader.result + ")"; 
+                   // document.getElementById('capture').image.src =reader.result;  
+		document.getElementById('capture').style.background = "url(" + reader.result + ")"; 
                 };
                 reader.readAsDataURL(input.files[0]);
             }
