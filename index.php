@@ -65,7 +65,7 @@
 			cursor: move;
 		}
 		.cap{
-		
+		height:400px;
 		width:100%;
 		float:left;
 		}
