@@ -65,7 +65,7 @@
 			cursor: move;
 		}
 		.cap{
-		height:400px;
+		
 		width:100%;
 		float:left;
 		}
@@ -226,8 +226,8 @@ width:100%;}
 	</div>
 	<div class="col-md-12 col-sm-12">
 		<div class="col-md-6 col-sm-12">
-	<div class="col-md-12 cap">
-<div id="capture" class="col-md-6 col-sm-12 capture">
+	<div class="cap">
+<div id="capture" class="capture">
 	<div class="fb-icon col-md-2"><span>facebook</span></div><div class="top col-md-10"><span class="fb">facebook.com/snr.caddesk</span></div>
 		<div class="movable_div" id="movable_div" contenteditable="true">Enter Text Here</div>
 		<div class="bottom"><span class="cad"><img src="bg_img/caddesk_logo.png" /></span></div>
