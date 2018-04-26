@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>	
+	
 @media only screen and (max-width: 740px) and (min-width: 300px)  {
 	.fb-icon.col-md-2 {
   width: 20% !important;;
@@ -125,14 +126,16 @@ width:100%;}
     font-size: 15px;
     color: #fff;
     font-weight: bold;
+    position: relative;
+    top: -2px;
 }
 .bottom {
     width: 29%;
     float: right;
     position: relative;
-    top: 285px;
+    top: 295px;
     background: #fff;
-    padding: 8px;
+    padding: 5px;
 }
 .cad {
 }
@@ -140,8 +143,9 @@ width:100%;}
     width: 100%;
     float: left;
     position: absolute;
-    top: 370px;
+    top: 376px;
     background: red;
+    height: 25px;
 }
 .mob {
     width: 50%;
@@ -149,9 +153,9 @@ width:100%;}
     color: #fff;
     font-weight: bold;
 	text-align:left;
-    font-size: 20px;
+    font-size: 17px;
     position: relative;
-    left: 4px;
+    left: 14px;
 }
 .add {
     text-align: right;
@@ -159,10 +163,10 @@ width:100%;}
     float: left;
     color: #fff;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 17px;
     text-transform: uppercase;
     position: relative;
-    right: 4px;
+    right: 14px;
 }
 .top {
     width: 86%;
@@ -186,6 +190,10 @@ width:100%;}
 .col-md-6 {
   margin: auto !important;
   padding: 0 !important;
+}
+	.fb-icon span {
+  position: relative;
+  top: -2px;
 }
 	</style>
 	<title>Take A Screenshot</title>
