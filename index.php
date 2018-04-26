@@ -71,7 +71,7 @@
 		}
 		.capture{
 		background-image:url(bg_img/Tulips.jpg);
-		background-size:100% 100%;
+		background-size: 100% 100% !important;
 		height: 100%;
 }
 .col-md-4 {
