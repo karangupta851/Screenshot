@@ -6,9 +6,6 @@
 .top.col-md-10 {
   width: 80% !important;;
 }
-.bottom{
-  top: 290px !important;;
-}
 	}
 	@media only screen and (max-width: 1030px) and (min-width: 745px)  {
 	
@@ -18,9 +15,7 @@
 .top.col-md-10 {
   max-width: 76.1%;
 }
-.bottom{
-  top: 292px !important;
-}
+
 	
 	}
 	@media only screen and (max-width: 1026px) and (min-width: 1000px)
@@ -66,7 +61,7 @@
 		width:100%;
 		float:left;
 		}
-		.capture{
+		#capture{
 		background-image:url(bg_img/Tulips.jpg);
 		background-size: 100% 100% !important;
 		height: 100%;
