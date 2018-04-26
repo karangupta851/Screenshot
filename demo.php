@@ -56,7 +56,7 @@
 </div>
 
 </div>
-	<script type="text/javascript">
+<script type="text/javascript">
 	$(function(){	
 			
 			//to make a div draggable
@@ -111,16 +111,12 @@
 		$('#take_screenshoot').click(function(){
 			html2canvas(document.querySelector("#capture1")).then(canvas => {
 				document.body.appendChild(canvas);
-
 	    //console.log(canvas.toDataURL());
 	    dataURL = canvas.toDataURL();
 	    post_data(dataURL);  	
-
 	  });
-
 		});
 });
-
 		function post_data(imageURL){
 		//console.log(imageURL);
 		$.ajax({
@@ -146,7 +142,6 @@
                 reader.readAsDataURL(input.files[0]);
             }
      }
-
 </script>
   <script>
   $( function() {
