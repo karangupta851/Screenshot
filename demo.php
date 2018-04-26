@@ -42,10 +42,15 @@
 		<div class="col-md-6 col-sm-12">
 	<div class="cap">
 <div id="capture1" class="capture">
-	<div class="fb-icon col-md-2"><span>facebook</span></div><div class="top col-md-10"><span class="fb">facebook.com/snr.caddesk</span></div>
+	<div class="col-md-12">
+		<div class="fb-icon col-md-2"><span>facebook</span></div><div class="top col-md-10"><span class="fb">facebook.com/snr.caddesk</span></div>
+	</div>
+	<div class="col-md-12">
 		<div id="capture" class="capture"> <div class="movable_div" id="movable_div" contenteditable="true">Enter Text Here</div>
 			<div class="bottom"><span class="cad"><img src="bg_img/caddesk_logo.png" /></span></div></div>
-		<div class="bottom1"><span class="mob">Mb. 9817525007</span><span class="add">Sundernagar</span></div>
+	</div>
+		<div class="col-md-12"><div class="bottom1"><span class="mob">Mb. 9817525007</span><span class="add">Sundernagar</span></div>
+	</div>
 </div>
 			</div>
 </div>
