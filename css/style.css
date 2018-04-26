@@ -198,3 +198,120 @@ width:100%;}
     width: 100%;
     float: left;
 }
+
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+#capture {
+    height: 180px;
+}
+.cap {
+    height: 235px;
+    width: 100%;
+    float: left;
+}
+.bottom {
+    width: 29%;
+    float: right;
+    position: relative;
+    top: 144px;
+    background: #fff;
+    padding: 5px;
+}
+.fb-icon span {
+    font-size: 12px;
+}
+.fb {
+    font-size: 11px;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    top: -3px;
+    left: 6px;
+}
+.mob {
+    width: 50%;
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    text-align: left;
+    font-size: 12px;
+    position: relative;
+    left: 6px;
+    top: 4px;
+}
+.add {
+    text-align: right;
+    width: 50%;
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    position: relative;
+    right: 6px;
+    top: 4px;
+}
+  }
+  @media screen 
+  and (device-width: 400px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+  #capture {
+    height: 169px;
+}
+.cap {
+    height: 224px;
+    width: 100%;
+    float: left;
+}
+.fb-icon span {
+    position: relative;
+    top: -3px;
+    font-size: 13px;
+}
+.fb {
+    font-size: 11px;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    top: -4px;
+}
+.mob {
+    width: 50%;
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    text-align: left;
+    font-size: 13px;
+    position: relative;
+    left: 10px;
+    top: 1px;
+}
+.add {
+    text-align: right;
+    width: 50%;
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+    position: relative;
+    right: 10px;
+    top: 1px;
+}
+.bottom {
+    width: 29%;
+    float: right;
+    position: relative;
+    top: 131px;
+    background: #fff;
+    padding: 5px;
+}
+  }
