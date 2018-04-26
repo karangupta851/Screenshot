@@ -200,6 +200,15 @@ width:100%;}
 }
 
 
+
+
+
+
+
+
+
+
+
 @media screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
@@ -207,54 +216,54 @@ width:100%;}
   and (orientation: portrait) {
 
 #capture {
-    height: 180px;
+    height: 180px!important;
 }
 .cap {
-    height: 235px;
-    width: 100%;
-    float: left;
+    height: 235px!important;
+    width: 100%!important;
+    float: left!important;
 }
 .bottom {
-    width: 29%;
-    float: right;
-    position: relative;
-    top: 144px;
-    background: #fff;
-    padding: 5px;
+    width: 29%!important;
+    float: right!important;
+    position: relative!important;
+    top: 144px!important;
+    background: #fff!important;
+    padding: 5px!important;
 }
 .fb-icon span {
-    font-size: 12px;
+    font-size: 12px!important;
 }
 .fb {
-    font-size: 11px;
-    color: #fff;
-    font-weight: bold;
-    position: relative;
-    top: -3px;
-    left: 6px;
+    font-size: 11px!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    position: relative!important;
+    top: -3px!important;
+    left: 6px!important;
 }
 .mob {
-    width: 50%;
-    float: left;
-    color: #fff;
-    font-weight: bold;
-    text-align: left;
-    font-size: 12px;
-    position: relative;
-    left: 6px;
-    top: 4px;
+    width: 50%!important;
+    float: left!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    text-align: left!important;
+    font-size: 12px!important;
+    position: relative!important;
+    left: 6px!important;
+    top: 4px!important;
 }
 .add {
-    text-align: right;
-    width: 50%;
-    float: left;
-    color: #fff;
-    font-weight: bold;
-    font-size: 12px;
-    text-transform: uppercase;
-    position: relative;
-    right: 6px;
-    top: 4px;
+    text-align: right!important;
+    width: 50%!important;
+    float: left!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    font-size: 12px!important;
+    text-transform: uppercase!important;
+    position: relative!important;
+    right: 6px!important;
+    top: 4px!important;
 }
   }
   @media screen 
@@ -264,54 +273,54 @@ width:100%;}
   and (orientation: portrait) {
 
   #capture {
-    height: 169px;
+    height: 169px!important!important;
 }
 .cap {
-    height: 224px;
-    width: 100%;
-    float: left;
+    height: 224px!important!important;
+    width: 100%!important!important;
+    float: left!important!important;
 }
 .fb-icon span {
-    position: relative;
-    top: -3px;
-    font-size: 13px;
+    position: relative!important!important;
+    top: -3px!important!important;
+    font-size: 13px!important!important;
 }
 .fb {
-    font-size: 11px;
-    color: #fff;
-    font-weight: bold;
-    position: relative;
-    top: -4px;
+    font-size: 11px!important!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    position: relative!important;
+    top: -4px!important;
 }
 .mob {
-    width: 50%;
-    float: left;
-    color: #fff;
-    font-weight: bold;
-    text-align: left;
-    font-size: 13px;
-    position: relative;
-    left: 10px;
-    top: 1px;
+    width: 50%!important;
+    float: left!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    text-align: left!important;
+    font-size: 13px!important;
+    position: relative!important;
+    left: 10px!important;
+    top: 1px!important;
 }
 .add {
-    text-align: right;
-    width: 50%;
-    float: left;
-    color: #fff;
-    font-weight: bold;
-    font-size: 13px;
-    text-transform: uppercase;
-    position: relative;
-    right: 10px;
-    top: 1px;
+    text-align: right!important;
+    width: 50%!important;
+    float: left!important;
+    color: #fff!important;
+    font-weight: bold!important;
+    font-size: 13px!important;
+    text-transform: uppercase!important;
+    position: relative!important;
+    right: 10px!important;
+    top: 1px!important;
 }
 .bottom {
-    width: 29%;
-    float: right;
-    position: relative;
-    top: 131px;
-    background: #fff;
-    padding: 5px;
+    width: 29%!important;
+    float: right!important;
+    position: relative!important;
+    top: 131px!important;
+    background: #fff!important;
+    padding: 5px!important;
 }
   }
